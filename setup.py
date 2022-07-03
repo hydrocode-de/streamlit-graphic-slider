@@ -9,7 +9,6 @@ setuptools.setup(
     description="Graphic background slider for Streamlit",
     long_description="",
     long_description_content_type="text/plain",
-    url="",
     packages=setuptools.find_packages(),
     include_package_data=True,
     classifiers=[],

@@ -1,1 +1,4 @@
-recursive-include package/frontend/build *
+recursive-include streamlit_graphic_slider/frontend/build *
+incldue README.md
+include LICENSE
+

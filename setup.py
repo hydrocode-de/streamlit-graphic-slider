@@ -3,7 +3,7 @@ import setuptools
 
 setuptools.setup(
     name="streamlit-graphic-slider",
-    version="0.1.0",
+    version="0.2.0",
     author="Mirko Mälicke",
     author_email="mirko@hydrocode.de",
     description="Graphic background slider for Streamlit",
